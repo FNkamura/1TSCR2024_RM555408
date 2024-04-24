@@ -12,3 +12,5 @@ print("\n\n\n")
 print("Minha alteração para aparecer na stage area")
 print("Nova alteração para aparecer na stage area")
 print("Alteração depois do commit")
+
+print("Alteracao feita no github para o pix")
